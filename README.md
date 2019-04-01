@@ -7,6 +7,7 @@ Generate a world cloud with the headlines of google news.
 ```
 pip install feedparser
 pip install word-cloud
+pip install matplotlib
 ```
 
 # screenshot
