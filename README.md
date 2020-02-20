@@ -16,3 +16,7 @@ pip install matplotlib
 # screenshot
 
 ![word cloud](world_cloud.png)
+
+# TODO
+
+retrieve the words to remove in cleanhtml from a text file like I did with stop-words.
