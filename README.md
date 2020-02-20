@@ -9,6 +9,9 @@ pip install feedparser
 pip install wordcloud
 pip install matplotlib
 ```
+# stop words
+
+[Stop Words](https://en.wikipedia.org/wiki/Stop_words) list retrieved from [Google stop-words](https://code.google.com/archive/p/stop-words/)
 
 # screenshot
 
